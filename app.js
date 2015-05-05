@@ -83,4 +83,3 @@ app.post('/', function(req, res) {
 
 var port = process.env.VCAP_APP_PORT || 3000;
 app.listen(port);
-console.log('listening at:', port);
