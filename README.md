@@ -35,7 +35,7 @@ applications:
 
 6. Push it live!
   ```sh
-  $ cf push
+  $ cf push <your topcoder handle>-fun-watson
   ```
 
 See the full [Getting Started][getting_started] documentation for more details, including code snippets and references.
