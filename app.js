@@ -82,4 +82,6 @@ app.post('/', function(req, res) {
 });
 
 var port = process.env.VCAP_APP_PORT || 3000;
-app.listen(port);
+app.listen(port, function() {
+  console.log('Express server listening on port %d', port);
+});
