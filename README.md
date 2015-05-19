@@ -1,6 +1,6 @@
 # Topcoder Visual Recognition Nodejs Starter Application
 
-  The IBM Watson [Visual Recognition][service_url] service analyzes the visual content of images and videos to understand the scene without any input text describing
+  The IBM Watson [Visual Recognition](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/visual-recognition.html) service analyzes the visual content of images and videos to understand the scene without any input text describing
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ applications:
   $ cf push <your topcoder handle>-fun-watson
   ```
 
-See the full [Getting Started][getting_started] documentation for more details, including code snippets and references.
+See the full [Getting Started](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/) documentation for more details, including code snippets and references.
 
 ## Running locally
   The application uses [Node.js](http://nodejs.org) and [npm](https://www.npmjs.com) so it assumes you already have it installed. If not, use the above link to install node and npm.
